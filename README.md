@@ -1,7 +1,7 @@
 # SACNet
 Code repository for our paper entilted "Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark" accepted at TMM 2024.
 
-arXiv version: In processing.
+arXiv version: https://arxiv.org/abs/2406.00917.
 ## Citing our work
 
 If you think our work is helpful, please cite
