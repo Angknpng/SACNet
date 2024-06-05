@@ -30,24 +30,37 @@ We analyze the proposed UVT2000 datset from several statistical aspects and also
 
 [![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/dataset_compare.png)](https://github.com/Angknpng/SACNet/blob/main/figures/dataset_compare.png)
 
+## Overview
+### Framework
+[![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/framework.png)](https://github.com/Angknpng/SACNet/blob/main/figures/framework.png)
+### RGB-T SOD Performance
+[![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/performance_RGBT.png)](https://github.com/Angknpng/SACNet/blob/main/figures/performance_RGBT.png)
+### RGB-D SOD Performance
+[![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/performance_RGBD.png)](https://github.com/Angknpng/SACNet/blob/main/figures/performance_RGBD.png)
+### RGB SOD Performance
+[![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/performance_RGB.png)](https://github.com/Angknpng/SACNet/blob/main/figures/performance_RGB.png)
+
 ## Predictions
 
 RGB-T saliency maps can be found here. 
+
 RGB-D saliency maps can be found here. 
+
 RGB saliency maps can be found here. 
 
 ## Pretrained Models
-Pretrained parameters can be found here.
+The pretrained parameters of our models can be found here.
 
 ## Usage
 
 ### Requirement
 
 0. Download the datasets for training and testing from here.
-1. Create directories for the experiment and parameter files.
-2. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
-3. Install other packages: `pip install -r requirements.txt`.
-4. Set your path of all datasets in `./Code/utils/options.py`.
+1. Download the pretrained parameters of the backbone from here.
+2. Create directories for the experiment and parameter files.
+3. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
+4. Install other packages: `pip install -r requirements.txt`.
+5. Set your path of all datasets in `./Code/utils/options.py`.
 
 ### Train
 
