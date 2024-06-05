@@ -42,21 +42,21 @@ We analyze the proposed UVT2000 datset from several statistical aspects and also
 
 ## Predictions
 
-RGB-T saliency maps can be found here. 
+RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1CSa8HNzlW9Lq4ToXlmuZnQ?pwd=xyu7) fetch code: xyu7]
 
-RGB-D saliency maps can be found here. 
+RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1dm-PbN_WMmVCRovJr3yROQ?pwd=jrjl) fetch code: jrjl] 
 
-RGB saliency maps can be found here. 
+RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1cvDj92KWVP8XL8DsPeA9ig?pwd=kj6o) fetch code: kj6o]
 
 ## Pretrained Models
-The pretrained parameters of our models can be found here.
+The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1LrGbcrkqkdMSgjx0C5S1hg?pwd=ihri) fetch code: ihri]
 
 ## Usage
 
 ### Requirement
 
-0. Download the datasets for training and testing from here.
-1. Download the pretrained parameters of the backbone from here.
+0. Download the datasets for training and testing from here. [[baidu pan](https://pan.baidu.com/s/1V6bPH87yZZ2fRbfa62vXeg?pwd=075x) fetch code: 075x]
+1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/14xGtKVSs53zRNZVKK-x4HA?pwd=mad3) fetch code: mad3]
 2. Create directories for the experiment and parameter files.
 3. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
 4. Install other packages: `pip install -r requirements.txt`.
