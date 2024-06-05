@@ -26,6 +26,41 @@ The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/
 
 ### Dataset Statistics and Comparisons
 
-We analyze the proposed ReDWeb-S datset from several statistical aspects and also conduct a comparison between ReDWeb-S and other existing RGB-D SOD datasets.
+We analyze the proposed UVT2000 datset from several statistical aspects and also conduct a comparison between UVT2000 and other existing multi-modal SOD datasets.
 
 [![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/dataset_compare.png)](https://github.com/Angknpng/SACNet/blob/main/figures/dataset_compare.png)
+
+## Predictions
+
+RGB-T saliency maps can be found here. 
+RGB-D saliency maps can be found here. 
+RGB saliency maps can be found here. 
+
+## Pretrained Models
+Pretrained parameters can be found here.
+
+## Usage
+
+### Requirement
+
+0. Download the datasets for training and testing from here.
+1. Create directories for the experiment and parameter files.
+2. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
+3. Install other packages: `pip install -r requirements.txt`.
+4. Set your path of all datasets in `./Code/utils/options.py`.
+
+### Train
+
+```
+python -m torch.distributed.launch --nproc_per_node=2 --master_port=2212 train_parallel.py
+```
+
+### Test
+
+```
+python test_produce_maps.py
+```
+
+## Contact
+
+If you have any questions, please contact us (kp.wang@foxmail.com).
