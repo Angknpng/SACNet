@@ -74,6 +74,14 @@ python -m torch.distributed.launch --nproc_per_node=2 --master_port=2212 train_p
 python test_produce_maps.py
 ```
 
+## Acknowledgement
+
+The implement of this project is based on the codebases bellow.
+
+- [SOD Literature Tracking](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
+- [PR Curve](https://github.com/lartpang/PySODEvalToolkit)
+- [Computational complexity test](https://github.com/yuhuan-wu/MobileSal)
+
 ## Contact
 
 If you have any questions, please contact us (kp.wang@foxmail.com).
