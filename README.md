@@ -76,7 +76,7 @@ python test_produce_maps.py
 
 ## Acknowledgement
 
-The implement of this project is based on the codebases bellow.
+The implement of this project is based on the following link.
 
 - [SOD Literature Tracking](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 - [PR Curve](https://github.com/lartpang/PySODEvalToolkit)
