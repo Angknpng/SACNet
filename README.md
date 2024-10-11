@@ -42,14 +42,18 @@ We analyze the proposed UVT2000 datset from several statistical aspects and also
 
 ## Predictions
 
-RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1CSa8HNzlW9Lq4ToXlmuZnQ?pwd=xyu7) fetch code: xyu7]
+RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1CSa8HNzlW9Lq4ToXlmuZnQ?pwd=xyu7) fetch code: xyu7] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+)]
 
-RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1dm-PbN_WMmVCRovJr3yROQ?pwd=jrjl) fetch code: jrjl] 
+RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1dm-PbN_WMmVCRovJr3yROQ?pwd=jrjl) fetch code: jrjl] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+)]
 
-RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1cvDj92KWVP8XL8DsPeA9ig?pwd=kj6o) fetch code: kj6o]
+RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1cvDj92KWVP8XL8DsPeA9ig?pwd=kj6o) fetch code: kj6o] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+)]
 
 ## Pretrained Models
-The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1LrGbcrkqkdMSgjx0C5S1hg?pwd=ihri) fetch code: ihri]
+The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1LrGbcrkqkdMSgjx0C5S1hg?pwd=ihri) fetch code: ihri] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+)]
 
 ## Usage
 
