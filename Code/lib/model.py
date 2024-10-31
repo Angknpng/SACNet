@@ -40,6 +40,8 @@ class BasicConv2d(nn.Module):
 class TMSOD(nn.Module):
     def __init__(self):
         super(TMSOD, self).__init__()
+        #if depth
+        #self.depth = nn.Conv2d(1, 3, kernel_size=1)
         self.rgb_swin = SwinTransformer(embed_dim=128, depths=[2, 2, 18, 2], num_heads=[4, 8, 16, 32])
         self.t_swin = SwinTransformer(embed_dim=128, depths=[2, 2, 18, 2], num_heads=[4, 8, 16, 32])
         self.MSA_sem = GMSA_ini(d_model=1024)
@@ -66,6 +68,8 @@ class TMSOD(nn.Module):
         self.up4 = nn.UpsamplingBilinear2d(scale_factor=4)
 
     def forward(self, rgb, t):
+        #if depth
+        #t = self.depth(t)
         fr = self.rgb_swin(rgb)#[0-3]
         ft = self.t_swin(t)
 
