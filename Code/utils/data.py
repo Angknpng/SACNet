@@ -447,7 +447,7 @@ class test_dataset:
         image = self.rgb_loader(self.images[self.index])
         image = self.transform(image).unsqueeze(0)
         gt = self.binary_loader(self.gts[self.index])
-        depth = self.rgb_loader(self.depths[self.index])
+        depth = self.rgb_loader(self.depths[self.index])#if depth: depth = self.binary_loader(self.depths[self.index])
         depth = self.depths_transform(depth).unsqueeze(0)
         name = self.images[self.index].split('/')[-1]
         image_for_post = self.rgb_loader(self.images[self.index])
