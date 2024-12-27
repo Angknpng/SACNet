@@ -2,6 +2,13 @@
 Code repository for our paper entilted "Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark" accepted at TMM 2024.
 
 arXiv version: https://arxiv.org/abs/2406.00917.
+
+## :tada: **News** :tada:  (December, 2024)
+
+We are excited to announce that our new work **"Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network"** has been accepted to **AAAI 2025**! :link: [GitHub Repository: PCNet](https://github.com/Angknpng/PCNet)
+
+This is part of our ongoing **Alignment-Free RGB-T Salient Object Detection (SOD)** series. Stay tuned for updates regarding code and resources related to this new work. 🚀
+
 ## Citing our work
 
 If you think our work is helpful, please cite
