@@ -7,7 +7,7 @@ arXiv version: https://arxiv.org/abs/2406.00917.
 
 We are excited to announce that our new work **"Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network"** has been accepted to **AAAI 2025**! :link: [GitHub Repository: PCNet](https://github.com/Angknpng/PCNet)
 
-This is also part of our ongoing **Alignment-Free RGB-T Salient Object Detection (SOD)** series. Stay tuned for updates regarding code and resources related to this new work. 🚀
+This is also part of our ongoing **Alignment-Free RGB-T Salient Object Detection** series. Stay tuned for updates regarding code and resources related to this new work. 🚀
 
 ## Citing our work
 
