@@ -51,6 +51,10 @@ RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1dm-
 RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1cvDj92KWVP8XL8DsPeA9ig?pwd=kj6o) fetch code: kj6o] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
 
+ResNet50-based saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1vJwjQeEHS18MWNscDfwrAw?pwd=xm4c) fetch code: xm4c]
+
+ResNet50-based checkpoints can be found here. [[baidu pan](https://pan.baidu.com/s/1o1DrfCL4T17PbKtU4b3mAw?pwd=svvk) fetch code: svvk]
+
 ## Pretrained Models
 The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1LrGbcrkqkdMSgjx0C5S1hg?pwd=ihri) fetch code: ihri] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
