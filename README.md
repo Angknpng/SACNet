@@ -29,7 +29,7 @@ We construct a novel benchmark dataset, containing 2000 unaligned visible-therma
 
 [![avatar](https://github.com/Angknpng/SACNet/raw/main/figures/dataset_sample.png)](https://github.com/Angknpng/SACNet/blob/main/figures/dataset_sample.png)
 
-The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1S2IFZjmWNf2EQtMVk5q2yg?pwd=irwv) fetch code: irwv] or [[google drive](https://drive.google.com/drive/folders/1Rm-zZRIAJmBhyS71WGKVL4IsrziR70bo?usp=drive_link)]
+The proposed dataset link can be found here. [[baidu pan](https://pan.baidu.com/s/1tLYnRAMXANvEB4qUM1jZgw?pwd=nitk) fetch code: nitk] or [[google drive](https://drive.google.com/drive/folders/1Rm-zZRIAJmBhyS71WGKVL4IsrziR70bo?usp=drive_link)]
 
 ### Dataset Statistics and Comparisons
 
@@ -49,29 +49,29 @@ We analyze the proposed UVT2000 datset from several statistical aspects and also
 
 ## Predictions
 
-RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1CSa8HNzlW9Lq4ToXlmuZnQ?pwd=xyu7) fetch code: xyu7] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+RGB-T saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1uuDHAh9TTQ4N9cJIl-p9OQ?pwd=kgej) fetch code: kgej] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
 
-RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1dm-PbN_WMmVCRovJr3yROQ?pwd=jrjl) fetch code: jrjl] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+RGB-D saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/15V1RYOUDFnx2w-GXDjzv8Q?pwd=43bk) fetch code: 43bk] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
 
-RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1cvDj92KWVP8XL8DsPeA9ig?pwd=kj6o) fetch code: kj6o] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+RGB saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1MMmOOrTG7D_o3iDCihpdCQ?pwd=8ug9) fetch code: 8ug9] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
 
-ResNet50-based saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/1vJwjQeEHS18MWNscDfwrAw?pwd=xm4c) fetch code: xm4c]
+ResNet50-based saliency maps can be found here. [[baidu pan](https://pan.baidu.com/s/14HFp58DmvjQHrLNSqz7uwA?pwd=i8xg) fetch code: i8xg]
 
-ResNet50-based checkpoints can be found here. [[baidu pan](https://pan.baidu.com/s/1o1DrfCL4T17PbKtU4b3mAw?pwd=svvk) fetch code: svvk]
+ResNet50-based checkpoints can be found here. [[baidu pan](https://pan.baidu.com/s/1Gkkp3R7gq4-Slxqfr0BeVw?pwd=istd) fetch code: istd]
 
 ## Pretrained Models
-The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/1LrGbcrkqkdMSgjx0C5S1hg?pwd=ihri) fetch code: ihri] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
+The pretrained parameters of our models can be found here. [[baidu pan](https://pan.baidu.com/s/177h2BnBwJ2C81qwVeC4Z0g?pwd=f2x5) fetch code: f2x5] or [[google drive](https://drive.google.com/drive/folders/1fBS4GMBS5qja8pzg7ZCQd1AxmEC8rMun?usp=drive_link
 )]
 
 ## Usage
 
 ### Requirement
 
-0. Download the datasets for training and testing from here. [[baidu pan](https://pan.baidu.com/s/1V6bPH87yZZ2fRbfa62vXeg?pwd=075x) fetch code: 075x]
-1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/14xGtKVSs53zRNZVKK-x4HA?pwd=mad3) fetch code: mad3]
+0. Download the datasets for training and testing from here. [[baidu pan](https://pan.baidu.com/s/1RE48go1wzGWymMblawG2wQ?pwd=vvgq) fetch code: vvgq]
+1. Download the pretrained parameters of the backbone from here. [[baidu pan](https://pan.baidu.com/s/1sBuu7Qw9n8aWRydQsDieBA?pwd=3ifw) fetch code: 3ifw]
 2. Create directories for the experiment and parameter files.
 3. Please use `conda` to install `torch` (1.12.0) and `torchvision` (0.13.0).
 4. Install other packages: `pip install -r requirements.txt`.
